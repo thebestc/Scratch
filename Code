@@ -54,7 +54,7 @@ li a.active {
 </ul>
 
 
-<center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/79247128/?autostart=true" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/79247128/?autostart=true" frameborder="0" <allowfullscreen></iframe></center>
     
 
 </body>
